@@ -41,3 +41,6 @@ vignettes/*.pdf
 # data files
 *.csv
 *.xls*
+
+# assignments
+lab2/

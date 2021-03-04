@@ -37,3 +37,4 @@ df <- EPI_South_Asia[, unlist(lapply(EPI_South_Asia, is.numeric))]
 df
 
 dev.off()
+getwd()

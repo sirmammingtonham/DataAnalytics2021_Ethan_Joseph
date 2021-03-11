@@ -44,3 +44,5 @@ vignettes/*.pdf
 
 # assignments
 lab2/
+assignment3/
+*.pptx
